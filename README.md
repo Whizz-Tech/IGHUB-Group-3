@@ -2,6 +2,6 @@
 
 > **A GROUP OF IDEAS CAN PRODUCES WHAT YOU NEVER NEW IT'S POSSIBLE**.
 
-```````````````html
-<i style="color:blue;">By: Goodluck Stephen<i>
+```````````````HTML
+By: Goodluck Stephen
 ``````````````````````
